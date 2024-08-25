@@ -21,19 +21,19 @@ A python script to extract ChromeGo Proxies
 
 - Clash Meta (不带WARP):
   
-  [https://raw.githubusercontent.com/linzjian666/chromego_extractor/main/outputs/clash_meta.yaml](https://raw.githubusercontent.com/linzjian666/chromego_extractor/main/outputs/clash_meta.yaml)
+  [https://raw.githubusercontent.com/kfkhfj/chromego_extractor/main/outputs/clash_meta.yaml](https://raw.githubusercontent.com/kfkhfj/chromego_extractor/main/outputs/clash_meta.yaml)
 
 - Clash Meta (带WARP):
   
-  [https://raw.githubusercontent.com/linzjian666/chromego_extractor/main/outputs/clash_meta_warp.yaml](https://raw.githubusercontent.com/linzjian666/chromego_extractor/main/outputs/clash_meta_warp.yaml)
+  [https://raw.githubusercontent.com/kfkhfj/chromego_extractor/main/outputs/clash_meta_warp.yaml](https://raw.githubusercontent.com/kfkhfj/chromego_extractor/main/outputs/clash_meta_warp.yaml)
 
 - Base64:
 
-  [https://raw.githubusercontent.com/linzjian666/chrome_extractor/main/outputs/base64.txt](https://raw.githubusercontent.com/linzjian666/chrome_extractor/main/outputs/base64.txt)
+  [https://raw.githubusercontent.com/kfkhfj/chrome_extractor/main/outputs/base64.txt](https://raw.githubusercontent.com/kfkhfj/chrome_extractor/main/outputs/base64.txt)
 
 - Proxy urls:
 
-  [https://raw.githubusercontent.com/linzjian666/chromego_extractor/main/outputs/proxy_urls.txt](https://raw.githubusercontent.com/linzjian666/chromego_extractor/main/outputs/proxy_urls.txt)
+  [https://raw.githubusercontent.com/kfkhfj/chromego_extractor/main/outputs/proxy_urls.txt](https://raw.githubusercontent.com/kfkhfj/chromego_extractor/main/outputs/proxy_urls.txt)
 
 <details>
 
@@ -41,19 +41,19 @@ A python script to extract ChromeGo Proxies
 
 - Clash Meta (不带WARP):
   
-  [https://gcore.jsdelivr.net/gh/linzjian666/chromego_extractor@main/outputs/clash_meta.yaml](https://gcore.jsdelivr.net/gh/linzjian666/chromego_extractor@main/outputs/clash_meta.yaml)
+  [https://gcore.jsdelivr.net/gh/kfkhfj/chromego_extractor@main/outputs/clash_meta.yaml](https://gcore.jsdelivr.net/gh/kfkhfj/chromego_extractor@main/outputs/clash_meta.yaml)
 
 - Clash Meta (带WARP):
   
-  [https://gcore.jsdelivr.net/gh/linzjian666/chromego_extractor@main/outputs/clash_meta_warp.yaml](https://gcore.jsdelivr.net/gh/linzjian666/chromego_extractor@main/outputs/clash_meta_warp.yaml)
+  [https://gcore.jsdelivr.net/gh/kfkhfj/chromego_extractor@main/outputs/clash_meta_warp.yaml](https://gcore.jsdelivr.net/gh/kfkhfj/chromego_extractor@main/outputs/clash_meta_warp.yaml)
   
 - Base64:
 
-  [https://gcore.jsdelivr.net/gh/linzjian666/chromego_extractor@main/outputs/base64.txt](https://gcore.jsdelivr.net/gh/linzjian666/chromego_extractor@main/outputs/base64.txt)
+  [https://gcore.jsdelivr.net/gh/kfkhfj/chromego_extractor@main/outputs/base64.txt](https://gcore.jsdelivr.net/gh/kfkhfj/chromego_extractor@main/outputs/base64.txt)
 
 - Proxy urls:
 
-  [https://gcore.jsdelivr.net/gh/linzjian666/chromego_extractor@main/outputs/proxy_urls.txt](https://gcore.jsdelivr.net/gh/linzjian666/chromego_extractor@main/outputs/proxy_urls.txt)
+  [https://gcore.jsdelivr.net/gh/kfkhfj/chromego_extractor@main/outputs/proxy_urls.txt](https://gcore.jsdelivr.net/gh/kfkhfj/chromego_extractor@main/outputs/proxy_urls.txt)
 
 </details>
 
@@ -68,7 +68,7 @@ A python script to extract ChromeGo Proxies
 #### 2. 下载脚本
 克隆本项目到本地：
 ```bash
-git clone https://github.com/linzjian666/chromego-extractor.git
+git clone https://github.com/kfkhfj/chromego-extractor.git
 ```
 
 #### 3. 运行脚本
@@ -114,5 +114,5 @@ python main.py
 
 <!--
 ## 统计
-![Star History Chart](https://api.star-history.com/svg?repos=linzjian666/chromego_extractor&type=Date)
+![Star History Chart](https://api.star-history.com/svg?repos=kfkhfj/chromego_extractor&type=Date)
 -->
